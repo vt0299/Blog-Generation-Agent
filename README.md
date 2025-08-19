@@ -252,8 +252,10 @@ For issues and questions:
 
 ## Output
 
-![Alt text](images/1.png)
+![Alt text](images/1.png)  
+<br><br>
 
-![Alt text](images/2.png)
+![Alt text](images/2.png)  
+<br><br>
 
 ![Alt text](images/3.png)
